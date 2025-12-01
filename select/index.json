@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Rise",
+  "base_artist": "Jonas Blue",
+  "createdAt": "2025-12-01T11:55:15.626965Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Rise",
+      "artist": "Jonas Blue",
+      "has_synced": true,
+      "path": "select/01_Rise_Jonas_Blue.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Infinite Rise",
+      "artist": "King Gizzard & The Lizard Wizard",
+      "has_synced": true,
+      "path": "select/02_Infinite_Rise_King_Gizzard_&_The_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Infinite Rise",
+      "artist": "King Gizzard and the Lizard Wizard",
+      "has_synced": true,
+      "path": "select/03_Infinite_Rise_King_Gizzard_and_the_Lizard_Wizard.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High Rise",
+      "artist": "Ladytron",
+      "has_synced": true,
+      "path": "select/04_High_Rise_Ladytron.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Rise - Club Mix",
+      "artist": "Ladytron",
+      "has_synced": false,
+      "path": "select/05_High_Rise_-_Club_Mix_Ladytron.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody Rise",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/06_Everybody_Rise_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everybody Rise Again",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/07_Everybody_Rise_Again_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Rise",
+      "artist": "Dan Bull",
+      "has_synced": true,
+      "path": "select/08_Rise_Dan_Bull.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Rise of the Machines",
+      "artist": "Jedi Mind Tricks feat. Ras Kass",
+      "has_synced": true,
+      "path": "select/09_Rise_of_the_Machines_Jedi_Mind_Tricks_feat._Ras_Kass.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Rise Of The Machines",
+      "artist": "Jedi Mind Tricks",
+      "has_synced": false,
+      "path": "select/10_Rise_Of_The_Machines_Jedi_Mind_Tricks.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Still I Rise",
+      "artist": "2Pac feat. Outlawz",
+      "has_synced": false,
+      "path": "select/11_Still_I_Rise_2Pac_feat._Outlawz.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Rise and Shine",
+      "artist": "Lyrics Born",
+      "has_synced": false,
+      "path": "select/12_Rise_and_Shine_Lyrics_Born.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Rise",
+      "artist": "Mike Peters",
+      "has_synced": false,
+      "path": "select/13_Rise_Mike_Peters.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Rise and Fall",
+      "artist": "Madness",
+      "has_synced": true,
+      "path": "select/14_Rise_and_Fall_Madness.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Rise Up In Love",
+      "artist": "Moby",
+      "has_synced": true,
+      "path": "select/15_Rise_Up_In_Love_Moby.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Spanish Moon Fall and Rise",
+      "artist": "Magnolia Electric Co.",
+      "has_synced": true,
+      "path": "select/16_Spanish_Moon_Fall_and_Rise_Magnolia_Electric_Co..lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RISE",
+      "artist": "Tokyo Cheer2 Party",
+      "has_synced": false,
+      "path": "select/pl_01_RISE_Tokyo_Cheer2_Party.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "RISE AGAIN",
+      "artist": "Tokyo Cheer2 Party",
+      "has_synced": false,
+      "path": "select/pl_02_RISE_AGAIN_Tokyo_Cheer2_Party.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Rise Up Together!!",
+      "artist": "Tokyo Cheer2 Party",
+      "has_synced": false,
+      "path": "select/pl_03_Rise_Up_Together!!_Tokyo_Cheer2_Party.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "RISE",
+      "artist": "Tokyo Cheer2 Party",
+      "has_synced": false,
+      "path": "select/pl_04_RISE_Tokyo_Cheer2_Party.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "Rise Up Your Flag",
+      "artist": "Tokyo Cheer2 Party",
+      "has_synced": false,
+      "path": "select/pl_05_Rise_Up_Your_Flag_Tokyo_Cheer2_Party.txt"
+    }
+  ]
+}
